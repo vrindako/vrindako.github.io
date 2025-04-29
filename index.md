@@ -2,4 +2,5 @@
 layout: home
 title: "Welcome"
 ---
-Vrinda's Webiste 
+
+This is Vrinda's amazing website!

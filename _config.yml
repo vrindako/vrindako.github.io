@@ -112,7 +112,7 @@ analytics:
 
 # Site Author
 author: vrindako
-  name             : "Vrinda Kohli"
+  name             :"Vrinda Kohli"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Analyst | Bioligist."
   location         : "Solna,Stockholm"
